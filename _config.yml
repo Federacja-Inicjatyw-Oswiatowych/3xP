@@ -12,6 +12,10 @@
 # logo:
 # google_analytics:
 
+collections:
+  flashcards:
+    output: true
+
 # Build settings
 theme: jekyll-theme-minimal
 

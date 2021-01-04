@@ -1,4 +1,7 @@
-# Co, Gdzie, Kiedy, Kto, Dlaczego, I Jak
+---
+layout: flashcard
+title: Co, Gdzie, Kiedy, Kto, Dlaczego, I Jak
+---
 
 Jaka podstawa prawna, Jakie pieniądze
 
