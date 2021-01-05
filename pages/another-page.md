@@ -1,6 +1,6 @@
 ---
-layout: flashcard
-title: Inna fiszka
+layout: page
+title: Inna strona
 ---
 
 A to inna fiszka

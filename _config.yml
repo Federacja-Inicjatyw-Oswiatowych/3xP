@@ -16,6 +16,8 @@ collections:
   flashcards:
     output: true
 
+include: ["pages"]
+
 # Build settings
 theme: jekyll-theme-minimal
 

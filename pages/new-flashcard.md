@@ -1,5 +1,5 @@
 ---
-layout: flashcard
+layout: page
 title: Jak dodać nową fiszkę?
 ---
 

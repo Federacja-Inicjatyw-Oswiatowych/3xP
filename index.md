@@ -11,4 +11,4 @@ Fiszki
 {% include card-list.html collection=site.flashcards %}
 
 
-[Jak dodac nowa fiszke?](./flashcards/new-flashcard.html)
+[Jak dodac nowa fiszke?](./pages/new-flashcard.html)
