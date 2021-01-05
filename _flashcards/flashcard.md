@@ -1,6 +1,7 @@
 ---
 layout: flashcard
 title: Co, Gdzie, Kiedy, Kto, Dlaczego, I Jak
+description: koordynaty
 ---
 
 Jaka podstawa prawna, Jakie pieniądze

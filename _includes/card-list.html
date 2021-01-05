@@ -1,0 +1,21 @@
+<ul class="horizontal-list">
+    {% for item in include.collection %}
+
+    <li class="card">
+        <a href="{{ item.url | relative_url }}">
+            <span class="header">
+                {{ item.title }}
+            </span>
+
+            <hr />
+
+            {% if item.description %}
+            <p class="body">
+                {{ item.description }}
+            </p>
+            {% endif %}
+        </a>
+    </li>
+
+    {% endfor %}
+</ul>

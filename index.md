@@ -8,11 +8,7 @@ Opis projektu, instrukcje.
 
 Fiszki
 ---
+{% include card-list.html collection=site.flashcards %}
 
-<ul>
-    {% for card in site.flashcards %}
-    <li>
-        <h2><a href="{{ card.url | relative_url }}">{{ card.title }}</a></h2>
-    </li>
-    {% endfor %}
-</ul>
+
+[Jak dodac nowa fiszke?](./flashcards/new-flashcard.html)
